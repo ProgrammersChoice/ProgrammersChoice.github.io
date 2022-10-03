@@ -1,0 +1,10 @@
+#+title: Index
+
+* Insights
+** Future
+- [[./insight_lex_fridman_ray_kurzweil.org][Ray Kurzweil의 insight]]
+
+* Programming
+** Algorithm
+- [[./algorithm_sites.org][training tips]]
+- [[./algorithm_words.org][알고리즘 용어]]
